@@ -2,9 +2,10 @@
 
 Open these two first (synthetic data only):
 
-1. **Clinician mobile intake** - after-case logging for rapid ClearBilling portal intake  
+1. **Prism clinician intake** - HIPAA-oriented provider handoff (Add Case + PDF upload, Access login, MRN match)  
    https://github.com/brivera2005/clinician-mobile-intake  
-   Live: https://brivera2005.github.io/clinician-mobile-intake/
+   Live: https://brivera2005.github.io/clinician-mobile-intake/  
+   Docs: [Provider guide PDF](https://github.com/brivera2005/clinician-mobile-intake/blob/main/docs/Prism-Provider-Guide.pdf) · [HIPAA & security](https://github.com/brivera2005/clinician-mobile-intake/blob/main/docs/HIPAA-AND-SECURITY.md)
 
 2. **ClearBilling Command Center** - coding review, signoff, PM/EHR post  
    https://github.com/brivera2005/command-center-demo  
